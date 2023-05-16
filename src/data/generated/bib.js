@@ -30,7 +30,7 @@
     "L2": {
         "abstract": "Abstract We propose a technique for fusing a bracketed exposure sequence into a high quality image, without converting to High dynamic range (HDR) first. Skipping the physically based HDR assembly step simplifies the acquisition pipeline. This avoids camera response curve calibration and is computationally efficient. It also allows for including flash images in the sequence. Our technique blends multiple exposures, guided by simple quality measures like saturation and contrast. This is done in a multiresolution fashion to account for the brightness variation in the sequence. The resulting image quality is comparable to existing tone mapping operators.",
         "author": "Mertens, T. and Kautz, J. and Van Reeth, F.",
-        "doi": "10.1111/j.1467-8659.2008.01171.x",
+        "doi": "https://doi.org/10.1111/j.1467-8659.2008.01171.x",
         "eprint": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8659.2008.01171.x",
         "journal": "Computer Graphics Forum",
         "keywords": "high dynamic range photography, image fusion, image pyramids, I.4.8 Image Processing: Scene Analysis \u2013 Photometry, Sensor Fusion",
@@ -38,7 +38,7 @@
         "pages": "161-171",
         "title": "Exposure Fusion: A Simple and Practical Alternative to High Dynamic Range Photography",
         "type": "article",
-        "url": "https://doi.org/10.1111/j.1467-8659.2008.01171.x",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2008.01171.x",
         "volume": "28",
         "year": "2009"
     },
@@ -98,14 +98,14 @@
     "L6": {
         "abstract": "Adaptive histogram equalization (ahe) is a contrast enhancement method designed to be broadly applicable and having demonstrated effectiveness. However, slow speed and the overenhancement of noise it produces in relatively homogeneous regions are two problems. We report algorithms designed to overcome these and other concerns. These algorithms include interpolated ahe, to speed up the method on general purpose computers; a version of interpolated ahe designed to run in a few seconds on feedback processors; a version of full ahe designed to run in under one second on custom VLSI hardware; weighted ahe, designed to improve the quality of the result by emphasizing pixels' contribution to the histogram in relation to their nearness to the result pixel; and clipped ahe, designed to overcome the problem of overenhancement of noise contrast. We conclude that clipped ahe should become a method of choice in medical imaging and probably also in other areas of digital imaging, and that clipped ahe can be made adequately fast to be routinely applied in the normal display sequence.",
         "author": "Stephen M. Pizer and E. Philip Amburn and John D. Austin and Robert Cromartie and Ari Geselowitz and Trey Greer and Bart {ter Haar Romeny} and John B. Zimmerman and Karel Zuiderveld",
-        "doi": "10.1016/S0734-189X(87)80186-X",
+        "doi": "https://doi.org/10.1016/S0734-189X(87)80186-X",
         "issn": "0734-189X",
         "journal": "Computer Vision, Graphics, and Image Processing",
         "number": "3",
         "pages": "355-368",
         "title": "Adaptive histogram equalization and its variations",
         "type": "article",
-        "url": "https://doi.org/10.1016/S0734-189X(87)80186-X",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0734189X8780186X",
         "volume": "39",
         "year": "1987"
     },
@@ -119,7 +119,7 @@
         "pages": "2828-2841",
         "title": "Structure-Revealing Low-Light Image Enhancement Via Robust Retinex Model",
         "type": "ARTICLE",
-        "url": "https://doi.org/10.1109/TIP.2018.2810539",
+        "url": "https://ieeexplore.ieee.org/document/8304597",
         "volume": "27",
         "year": "2018"
     },
@@ -133,7 +133,7 @@
         "pages": "6842-6850",
         "title": "Underexposed Photo Enhancement Using Deep Illumination Estimation",
         "type": "INPROCEEDINGS",
-        "url": "https://doi.org/10.1109/CVPR.2019.00701",
+        "url": "https://ieeexplore.ieee.org/document/8953588",
         "volume": "",
         "year": "2019"
     },
